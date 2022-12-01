@@ -1,9 +1,9 @@
 ## Hey there <img src="https://github.com/rwishd17/RashedSharahili/blob/main/hey.gif" alt="Hey" width="22px">  
 <b>I’m Rashed Sharahili</b> <br><br>
-👀 I’m interested in Developer App & web  
-🌱 I’m currently learning SwiftUI and Kotlin  
-💞️ I’m looking to collaborate on creative people  
-📫 How to reach me Twitter: <a href="https://twitter.com/Rashdtech">@Rashdtech</a>
+* 👀 I’m interested in Developer App & web  
+* 🌱 I’m currently learning SwiftUI and Kotlin  
+* 💞️ I’m looking to collaborate on creative people  
+* 📫 How to reach me Twitter: <a href="https://twitter.com/Rashdtech">@Rashdtech <img src="https://github.com/RashedSharahili/RashedSharahili/blob/main/twitter.svg" alt="Rashdtech" width="22px"></a>
 
 
 
