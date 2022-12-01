@@ -1,5 +1,5 @@
 ## Hey there <img src="https://github.com/rwishd17/RashedSharahili/blob/main/hey.gif" alt="Hey" width="22px">  
-<b>I’m Rashed Sharahili</b> <br><br>
+<b>I’m Rashed Sharahili</b> <br>
 * 👀 I’m interested in Developer App & web  
 * 🌱 I’m currently learning SwiftUI and Kotlin  
 * 💞️ I’m looking to collaborate on creative people  
