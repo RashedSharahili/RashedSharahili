@@ -1,3 +1,5 @@
+<div align ="center">
+
 ## Hey there <img src="https://github.com/rwishd17/RashedSharahili/blob/main/hey.gif" alt="Hey" width="22px">  
 <b>I’m Rashed Sharahili</b> <br>
 * 👀 I’m interested in Development App & web  
@@ -27,3 +29,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RashedSharahili&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 ![](https://visitcount.itsvg.in/api?id=RashedSharahili&icon=0&color=0)
+</div>
